@@ -17,7 +17,7 @@ def MergeSort(m):
   #breaking up the arrays into individual arrays of one element
   left = MergeSort(left)
   right = MergeSort(right)
-  #merging individual arrays. Eventually we end up with 2 sorted arrays that will, in turn, be merged into one final sorted array
+  #merging individual arrays. Eventually we end up with 2 sorted arrays that will then be merged into one final sorted array
   return Merge(left, right)
 
 def Merge(left, right):
