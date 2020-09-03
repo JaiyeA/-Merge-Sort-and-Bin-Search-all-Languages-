@@ -1,3 +1,3 @@
-My short term goal is to do one implementation a week.
+Overtime I would like to learn new languages and apply what I learned by creating the merge sort and binary search algorithms in those languages.
 
-My future goal is to eventually implement merge sort and binary search with all programming languages. 
+My goal is to eventually implement merge sort and binary search with all programming languages. 
